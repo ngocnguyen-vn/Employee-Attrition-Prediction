@@ -14,10 +14,10 @@ This project builds a **binary classification model** to predict whether a data 
 -  **Nguyen Thi Yen Nhi** —
   GitHub: https://github.com/nhinguyenthibbs23-maker
 
-- **Nguyen Bao Ngoc** 
+- **Nguyen Bao Ngoc** —
   GitHub: https://github.com/ngocnguyen-vn
   
-- **Do Nguyen Minh Thu** 
+- **Do Nguyen Minh Thu** —
   GitHub: https://github.com/minhthu1302
 
 ## Repository
