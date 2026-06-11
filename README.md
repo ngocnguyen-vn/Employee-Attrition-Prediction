@@ -6,6 +6,23 @@ This project builds a **binary classification model** to predict whether a data 
 
 **Dataset:** [Kaggle — HR Analytics: Job Change of Data Scientists](https://www.kaggle.com/arashnic/hr-analytics-job-change-of-data-scientists)
 
+## Contributors
+
+- **Doan My Duyen** — 
+  GitHub: https://github.com/duyendoanbbs23-cloud
+
+-  **Nguyen Thi Yen Nhi** —
+  GitHub: https://github.com/nhinguyenthibbs23-maker
+
+- **Nguyen Bao Ngoc** 
+  GitHub: https://github.com/ngocnguyen-vn
+  
+- **Do Nguyen Minh Thu** 
+  GitHub: https://github.com/minhthu1302
+
+## Repository
+
+GitHub: https://github.com/ngocnguyen-vn/Employee-Attrition-Prediction 
 ---
 
 ## Project Structure
