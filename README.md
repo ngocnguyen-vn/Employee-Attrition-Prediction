@@ -21,8 +21,8 @@ This project builds a **binary classification model** to predict whether a data 
   GitHub: https://github.com/minhthu1302
 
 ## Repository
-
 GitHub: https://github.com/ngocnguyen-vn/Employee-Attrition-Prediction 
+
 ---
 
 ## Project Structure
